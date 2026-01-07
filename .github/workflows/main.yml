@@ -33,5 +33,5 @@ jobs:
           port: 21
           protocol: ftps
           local-dir: ./dist/
-          server-dir: /spotify.paisible.tech
+          server-dir: /spotify.paisible.tech/
           security: loose
